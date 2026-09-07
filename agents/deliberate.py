@@ -125,6 +125,7 @@ _PROMPT_FILES = {
     "weather": "weather.md",
     "geospatial": "geo.md",
     "risk": "risk.md",
+    "catalogue": "discovery.md",
 }
 
 
